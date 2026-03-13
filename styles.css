@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 5px 0;
+}
+
+.food-name {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+
+.text-description {
+    font-size: 20px;
+}
